@@ -19,6 +19,9 @@ The novel Corona virus, also known as COVID-19 is the reason for thousands of de
 ### WHO advice for public:
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public
 
+###How to reprt misinformation
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters
+
 ### WHO Q&A on coronavirus:
 https://www.who.int/news-room/q-a-detail/q-a-coronaviruses
 
